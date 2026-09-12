@@ -186,5 +186,8 @@ These honest scores were evaluated strictly across the full 30-pair test set usi
 
 ### Running Tests
 
-## 👨‍💻 Profile
-[Rishik-sai](https://github.com/Rishik-sai)
+👨‍💻 Developed By
+
+    Suyog Shirsat
+    Kiran Shinde
+
